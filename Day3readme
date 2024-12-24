@@ -1,0 +1,16 @@
+#Day3-31r
+**Tables** <table></table> - container
+Table headings are deffined with th tag
+table rows are defined with tr tag
+table data are defind with td tag
+
+**Border** attribute is used to create border for a table!
+<table border = "2" cellpaddinig =20px; </table>
+**cell padding** is used to create space around the content
+cell spacing is used to create spaces around the cells
+width and height attributes are used to maintain table height and width.
+- Can use %, px, etc.
+Width can work with % but Height cannot work with %.(bcoz height can increase but width is just the screen size).
+**bgcolor** attribute is used to change the color of cell, row etc.
+color attribute is used to change the text color.
+ 
