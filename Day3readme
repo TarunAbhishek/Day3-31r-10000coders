@@ -48,16 +48,7 @@ html>head>title^body>h1 - This makes the below output
 </body>
 </html>
 
-also can be written as html>(head>title) + body>h1 - This make the below output
-
-<html>
-<head>
-    <title></title>
-</head>
-<body>
-    <h1></h1>
-</body>
-</html>
+also can be written as html>(head>title) + body>h1 - This one also makes the same output as above
 
 Use alt for moving lines of code up or down!! by selecting the line of code or maintain type cursor at the end of the line!!
 
