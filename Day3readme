@@ -14,3 +14,56 @@ Width can work with % but Height cannot work with %.(bcoz height can increase bu
 **bgcolor** attribute is used to change the color of cell, row etc.
 color attribute is used to change the text color.
 
+shortcuts for tags in VS code
+type a enter it will create anchor tag
+type h1 enter it will create h1 tag
+type p enter it will create p tag
+
+type table> to create a table row inside table
+type tr> to create table data tag inside table row
+
+h1+p+a (emmets) creates <h1></h1>, <p></p>, <a href=""></a>
+
++ symbol used to create siblings for tags
+> symbol used to create child tags in table
+
+table>tr*3>td*3
+This creates table with three rows and three columns
+
+table>tr*3>td*3{content inside}
+
+() - for grouping
+{}- for content
+[] - for attribute
+^ add element to the parent
+
+html>head>title^body>h1 - This makes the below output
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <h1></h1>
+</body>
+</html>
+
+also can be written as html>(head>title) + body>h1 - This make the below output
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <h1></h1>
+</body>
+</html>
+
+Use alt for moving lines of code up or down!! by selecting the line of code or maintain type cursor at the end of the line!!
+
+
+Ctrl + shift + alt + up/down to edit multiple tags or add same content for multiple tags
+
+
+shift + alt + up/down
+
