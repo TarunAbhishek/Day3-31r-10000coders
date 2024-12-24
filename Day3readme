@@ -13,4 +13,4 @@ width and height attributes are used to maintain table height and width.
 Width can work with % but Height cannot work with %.(bcoz height can increase but width is just the screen size).
 **bgcolor** attribute is used to change the color of cell, row etc.
 color attribute is used to change the text color.
- 
+
